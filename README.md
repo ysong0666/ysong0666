@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sally!
 - 👩🏻‍💻 I bring a unique blend of software engineering and data science skills.
-- 💭 I want to build robust, scalable, and secure software solutions that leverage data-driven insights to help make the world a bit better.
+- 💭 I want to build robust, scalable, and secure software solutions that leverage data-driven insights to help make complex problems simpler and the world a bit better.
 - 🌱 I’m currently learning about LLM/GPT, RAG, and chess.
